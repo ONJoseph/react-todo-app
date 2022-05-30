@@ -1,6 +1,68 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Joseph Ogbole React to-do app tutorial project
+
+> React to do app
+
+![screenshot](https://ibaslogic.com/a04023263939b5d0bfb5f32c0fce4598/react-todo-app_700.gif)
+
+## Description
+
+Follow the react to-do app tutorial and build the project in the estimated time.
+
+## Requirements:
+
+- [ ] You will follow the tutorial: React Tutorial From Scratch: A Step-by-Step Guide (2021), where you will develop a To do app!
+- [ ] This tutorial, divided into several parts, is very comprehensive, and covers all main concepts about React, from the very basics to some intermediate topics. Feel free to skip the parts you think you don't need, since you already learned about these topics. This tutorial is not a substitute, just a reinforcement of what you have learned.
+- [ ] Complete as much as possible in the estimated time.
+- [ ] The tutorial is organized in the following sections:
+  - [ ] Part 1 - React tutorial: The beginner's guide to learning React in 2020.
+  - [ ] Part 2 - Working with React form and handling event.
+  - [ ] Part 3 – How to implement CSS in Reactjs app.
+  - [ ] Part 4 – How to edit to dos items.
+  - [ ] Part 5 – Persisting React state in local storage (Optional).
+  - [ ] Part 6 – Getting started with React lifecycle methods.
+  - [ ] Part 7 – Getting started with React hooks.
+  - [ ] Part 8 – How to use SVG icons in React (Optional).
+  - [ ] Part 9 – Routing with React Router.
+  - [ ] Part 10 – How to add hamburger menu in React (Optiona).
+  - [ ] Part 11 – Deploying React app to GitHub Pages (Optional).
+- [ ] Create a new repository work on a new branch (use Gitflow).
+- [ ] Open a pull request with all your changes. Do not merge it - you will need it in the following exercise!
+
+## Built With
+
+- Major languages: Javascript
+- Frameworks: React.js
+- Technologies used: Node.js, Babel, Jest, webpack
+- Tested with: - ESLint (JavaScript linting), Stylelint (style linting)
+
+## Live Demo
+
+- No deployment yet
+
+### Prerequisites
+
+- Internet connection and browser
+- A text editor(preferably Visual Studio Code)
+- Browser
+
+### Setup
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/react-todo-app).
+
+### Install
+
+- [Git](https://git-scm.com/downloads)
+- [Node](https://nodejs.org/en/download/)
+
+### Usage
+
+- Clone the repository using `git clone https://github.com/ONJoseph/react-todo-app.git`
+- Change directory into the project folder: `cd react-todo-app`
+- Run `npm install`
+- Run `npm start`
+- A new browser will open automatically with application loaded
 
 ## Available Scripts
 
@@ -39,32 +101,32 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Not ready yet
 
-### `npm run build` fails to minify
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+👤 **Joseph Ogbole**
+
+- GitHub: [@ONJoseph](https://github.com/ONJoseph)
+- Twitter: [@ONJCodes](https://twitter.com/ONJCodes)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/o-n-joseph-ba8425147/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/ONJoseph/react-todo-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse for the Readme Template
+
+## 📝 License
+
+This project is [MIT](./license.md) licensed.
